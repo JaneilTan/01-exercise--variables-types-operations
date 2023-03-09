@@ -8,7 +8,7 @@ const lastName = "Murray";
 // NOTE: DO NOT just write "Bill Murray", read from the two variables above
 const fullName = `${firstName} ${lastName}`;
 // Initialise email to a string billmurray@gmail.com
-const email = "biilmurray@gmail.com";
+const email = "billmurray@gmail.com";
 // Initialise age to a number 70
 const age = 70;
 // Initialise hasSeniorDiscount:
@@ -36,7 +36,7 @@ const departureAirport = "AKL";
 // Initialise seniorDiscountPercentage to a number 0.05
 const seniorDiscountPercentage = 0.05;
 // Initialise flightCost to a number 1999
-const flightCost = 1999
+const flightCost = 1999;
 // Initialise airportTax to a number 23
 const airportTax = 23;
 // Initialise totalCost to flightCost plus airportTax
